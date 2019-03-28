@@ -20,5 +20,7 @@ erl_crash.dump
 *.ez
 
 # Ignore package tarball (built via "mix hex.build").
-sendle_test-*.tar
+calculator_test-*.tar
 
+# Ignore Elixir Language Server files (VS Code)
+.elixir_ls

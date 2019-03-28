@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :sendle_test, key: :value
+#     config :calculator_test, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:sendle_test, :key)
+#     Application.get_env(:calculator_test, :key)
 #
 # You can also configure a 3rd-party app:
 #
